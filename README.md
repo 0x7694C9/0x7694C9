@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @0x7694C9
 - 👀 I’m interested in Software Development, Music, and Trolling.
-- 🌱 I’m currently learning Java, NodeJS, DiscordJS, JS, Python
-- 💞️ I’m looking to collaborate on nothing....I'm a lone wolf....
+- 🌱 My main priority is learning Java, since I primarily develop for a Minecraft server. But will soon move to other languages.
+- 💞️ I mainly work by myself, but assistance is appreciated but not required.
+- 🎓 I am an 18 year old high school graduate.
 - 📫 How to reach me: Discord: 0x7694c9. That's it.
 
 <!---
