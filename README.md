@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development, Music, and Trolling.
 - 🌱 My main priority is learning Java, since I primarily develop for a Minecraft server. But will soon move to other languages.
 - 💞️ I mainly work by myself, but assistance is appreciated but not required.
-- 🎓 I am an 18 year old high school graduate.
 - 📫 How to reach me: Discord: 0x7694c9. That's it.
 
 <!---
