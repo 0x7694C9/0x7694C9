@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0x7694C9
 - 👀 I’m interested in Software Development, Music, and just enjoying life.
 - 🌱 My main priority is learning Java, since I primarily develop for a Minecraft server. But will soon move to other languages.
-- 💞️ I mainly work by myself, but assistance is appreciated but not required.
+- 💞️ I mainly work by myself, assistance is appreciated but not required.
 - 📫 How to reach me: Discord: 0x7694c9. That's it.
 
 <!---
